@@ -1,37 +1,31 @@
-# data-analytics-portfolio
-Portafolio de proyectos de Data Analyst en SQL, R y Power BI
+Amazon sales Data Analysis 
 
-# 📊 Data Analytics Portfolio
+Data cleaning and visualization  project using MySQL and Power BI to analyze sales performance, canellations, revenue trends and top customers. 
+The goal was to clean and visualize the dataset to support better business decisions using **MySQL** and **Power BI**.
 
-¡Hola! Soy Javier, aspirante a Data Analyst.  
-Este portafolio reúne mis proyectos en **SQL, R y Power BI**, con ejemplos prácticos de análisis de datos, limpieza, visualización y generación de insights de negocio.  
+project structure 
 
----
+Amazon-Sales-Data-Analysis/
+│
+├── SQL/ 
+│   ├── data_cleaning.sql
+│   ├── revenue_analysis.sql
+│   └── cancellations_by_category.sql
+│
+├── PowerBI/
+│   └── Amazon_Sales_Dashboard.pbix
+│
+├── Images/
+│   ├── dashboard_preview.png
+│   └── data_model.png
+│
+└── README.md
 
-## 🚀 Habilidades Técnicas
-- **Lenguajes:** MySQSL
-- **Herramientas BI:** Power BI, Tableau (en progreso)
-- **Otros:** Excel, GitHub. 
 
----
 
-## 📂 Estructura del Portafolio
-- **/SQL** → Consultas y proyectos de análisis de bases de datos.  
-- **/R** → Análisis exploratorio, visualizaciones y estadísticas.  
-- **/PowerBI** → Dashboards interactivos publicados.  
-- **/Capstones** → Proyectos integrados que combinan SQL + R + Power BI.  
 
----
 
-## 📌 Proyectos Destacados (se irán actualizando)
-1. **[SQL Básico – Análisis de empleados](./SQL)**
-   - Consultas con filtros, joins y funciones de agregación.
-2. **[R Exploratorio – Dataset Gapminder](./R)**
-   - Análisis de variables y visualización con ggplot2.
-3. **[Power BI – Dashboard de Ventas](./PowerBI)**
-   - KPIs principales y visualización de tendencias.
-4. **[Capstone – Caso de Negocio Ventas](./Capstones)**
-   - Proyecto completo integrando SQL, R y Power BI.
+
 
 ---
 
