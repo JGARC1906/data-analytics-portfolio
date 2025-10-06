@@ -7,10 +7,9 @@ project structure
 
 Amazon-Sales-Data-Analysis/
 │
-├── SQL/ 
-│   ├── data_cleaning.sql
-│   ├── revenue_analysis.sql
-│   └── cancellations_by_category.sql
+├── SQL/
+│   └── amazon_sales_project.sql 
+    
 │
 ├── PowerBI/
 │   └── Amazon_Sales_Dashboard.pbix
