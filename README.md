@@ -7,7 +7,7 @@ project structure
 
 Amazon-Sales-Data-Analysis/
 │
-├── SQL/
+├── SQL/ (./SQL/amazon_sales_copy_2025.sql) 
 │   └── amazon_sales_project.sql 
     
 │
