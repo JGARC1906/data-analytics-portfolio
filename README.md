@@ -9,9 +9,9 @@ Este portafolio reúne mis proyectos en **SQL, R y Power BI**, con ejemplos prá
 ---
 
 ## 🚀 Habilidades Técnicas
-- **Lenguajes:** SQL, R, Python (básico)
+- **Lenguajes:** MySQSL
 - **Herramientas BI:** Power BI, Tableau (en progreso)
-- **Otros:** Excel, GitHub, ETL básico
+- **Otros:** Excel, GitHub. 
 
 ---
 
@@ -36,5 +36,5 @@ Este portafolio reúne mis proyectos en **SQL, R y Power BI**, con ejemplos prá
 ---
 
 ## 📬 Contacto
-- 📧 Email: [tu-email-aqui]  
-- 💼 LinkedIn: [tu-linkedin-aqui]  
+- 📧 Email: jarcia123@outlook.com
+- 💼 LinkedIn: www.linkedin.com/in/javier-garcia-70817024b
