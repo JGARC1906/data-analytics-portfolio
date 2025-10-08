@@ -12,10 +12,17 @@ Amazon-Sales-Data-Analysis/
 ├── PowerBI/
 │   └── [`amazon_sales_copy_dashboard.pbix`](./PowerBI/amazon_sales_copy_dashboard.pbix)
 │
-├── Images/
-│   ├── [`dashboard_preview.png`](./Images/dashboard_preview.png)
-│   └── [`data_model.png`](./Images/data_model.png)
-│
+ ## 📸 Dashboard Preview  
+
+### 🧭 Main Dashboard  
+![Main Dashboard](./Images/Screenshot%202025-10-06%20131920.png)
+
+###  Cancellations  
+![Cancellations](./Images/Screenshot%202025-10-06%20131931.png)
+
+### 👥 Top Customers  
+![Top Customers](./Images/Screenshot%202025-10-06%20131945.png)
+
 └── README.md
 
 
