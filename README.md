@@ -8,9 +8,11 @@ project structure
 Amazon-Sales-Data-Analysis/
 │
 ├── SQL/
-│   └── [`amazon_sales_copy_2025.sql`] (.SQL/amazon_sales_copy_2025.sql)
+│   └── [`amazon_sales_copy_2025.sql`](./SQL/amazon_sales_copy_2025.sql)
+
 ├── PowerBI/
 │   └── [`amazon_sales_copy_dashboard.pbix`](./PowerBI/amazon_sales_copy_dashboard.pbix)
+
 │
  ## 📸 Dashboard Preview  
 
