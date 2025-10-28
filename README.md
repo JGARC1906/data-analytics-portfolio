@@ -59,12 +59,27 @@ It highlights my analytical thinking, data storytelling, and attention to busine
 
 ## 🆕 Project 2: Retail Sales Data Analysis (MySQL + Power BI)
 
-**Description:**  
-Analyzed retail transaction data to identify sales trends by category and age group.  
-Built interactive Power BI dashboards to visualize insights and provide data-driven business recommendations.
-
 **Project Date:** October 2025  
 **Tools Used:** MySQL · Power BI · Exploratory Analysis · Data Cleaning · Data Visualization · Business Insights  .
+
+🧾 Overview
+
+This project explores a retail sales dataset to identify trends in revenue generation, customer demographics, and product category performance. Using SQL for data cleaning and analysis, and Power BI for visualization, the goal was to transform raw transactional data into actionable business insights.
+
+⚙️ Methodology
+
+Data Cleaning & Preparation (SQL)
+   Verified and removed incomplete or duplicate transactions.
+   Filtered dataset to focus on sales for 2023.
+   Created aggregated tables using CTEs and GROUP BY for key metrics such as total      revenue, quantity sold, and average order value.
+
+Data Analysis (SQL)
+    Grouped customers by age range and analyzed total revenue and average order          values.
+    Compared product categories (Electronics, Clothing, Beauty) by transactions,         quantity sold, and total revenue.
+
+Data Visualization (Power BI)
+     Designed dashboards focused on Revenue by Age Group and Revenue by Category.
+     Added KPI cards to summarize metrics like total revenue, units sold, and             average order value.
 
 │
 ├── SQL/
@@ -82,12 +97,17 @@ Built interactive Power BI dashboards to visualize insights and provide data-dri
 ##  Category
 ![Revenue by category](./Images/Screenshot%202025-10-28%20142158.png)
 
+💡 Key Insights
 
+- Mature Adults (41–60) generated the highest revenue ($192K), while Seniors (61+)     contributed the least ($33K).
+- Young Adults (18–25) and Adults (26–40) showed higher average order values,          suggesting strong potential for targeted marketing.
+- Electronics led in both revenue ($157K) and units sold, indicating consistent        demand.
+- Clothing followed closely with balanced performance and efficient pricing per unit.
+- Beauty underperformed due to lower transaction volume, presenting an opportunity     for promotional campaigns.
 
-
-
-
-
+🧠 Conclusion
+- Focus marketing efforts on younger segments to convert higher spending potential into increased frequency.
+- Maintain the strong performance of electronics while optimizing beauty through seasonal or targeted promotions.
 
 
 ## 📬 Contact  
