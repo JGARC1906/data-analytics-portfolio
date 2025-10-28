@@ -70,7 +70,7 @@ Built interactive Power BI dashboards to visualize insights and provide data-dri
 │   └── [`retail_sales_data.sql`](./SQL/retail_sales_data.sql)
 
 ├── PowerBI/
-│   └── [`amazon_sales_copy_dashboard.pbix`](./PowerBI/amazon_sales_copy_dashboard.pbix)
+│   └── [`proyect_retail_sales_data.pbix`](./PowerBI/proyect_retail_sales_data.pbix)
 
 
 
