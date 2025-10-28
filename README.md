@@ -73,6 +73,7 @@ Built interactive Power BI dashboards to visualize insights and provide data-dri
 │   └── [`proyect_retail_sales_data.pbix`](./PowerBI/proyect_retail_sales_data.pbix)
 
 
+ ## 📸 Dashboard Preview  
 
 
 
