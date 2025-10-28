@@ -75,7 +75,11 @@ Built interactive Power BI dashboards to visualize insights and provide data-dri
 
  ## 📸 Dashboard Preview  
 
+## 👥 Age Group
+![Revenue by age group](./Images/Screenshot%202025-10-28%20142145.png)
 
+##  Category
+![Revenue by category](./Images/Screenshot%202025-10-28%20142158.png)
 
 
 
