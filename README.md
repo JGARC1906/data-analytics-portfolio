@@ -63,7 +63,8 @@ It highlights my analytical thinking, data storytelling, and attention to busine
 Analyzed retail transaction data to identify sales trends by category and age group.  
 Built interactive Power BI dashboards to visualize insights and provide data-driven business recommendations.
 
-
+**Project Date:** October 2025  
+**Tools Used:** MySQL · Power BI · Exploratory Analysis · Data Cleaning · Data Visualization · Business Insights  .
 
 │
 ├── SQL/
