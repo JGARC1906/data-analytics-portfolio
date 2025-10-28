@@ -57,7 +57,32 @@ This project demonstrates my ability to turn raw transactional data into actiona
 It highlights my analytical thinking, data storytelling, and attention to business impact — key qualities for a **Data Analyst** role.  
 
 
----
+## 🆕 Project 2: Retail Sales Data Analysis (MySQL + Power BI)
+
+**Description:**  
+Analyzed retail transaction data to identify sales trends by category and age group.  
+Built interactive Power BI dashboards to visualize insights and provide data-driven business recommendations.
+
+
+
+│
+├── SQL/
+│   └── [`retail_sales_data.sql`](./SQL/retail_sales_data.sql)
+
+├── PowerBI/
+│   └── [`amazon_sales_copy_dashboard.pbix`](./PowerBI/amazon_sales_copy_dashboard.pbix)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📬 Contact  
 
